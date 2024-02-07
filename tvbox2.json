@@ -735,22 +735,11 @@
 	],
 	"lives": [
 		{
-			"name": "yingshi",
-			"url": "http://52bsj.vip:81/api/v3/file/get/122873/lele.txt?sign=yKzjapJlxJ-6naKcbM5Bz4FDYn43u6lTHO_0fd7t3Xg%3D%3A0",
+			"name": "xiaoyan ",
+			"url": "https://raw.githubusercontent.com/angryBird2014/tvbox/main/live.txt",
 			"type": 0,
 			"epg": "https://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-		{
-			"group": "redirect",
-			"channels": [
-				{
-					"name": "live",
-					"urls": [
-						"proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMTIyODczL2xlbGUudHh0P3NpZ249eUt6amFwSmx4Si02bmFLY2JNNUJ6NEZEWW40M3U2bFRIT18wZmQ3dDNYZyUzRCUzQTA="
-					]
-				}
-			]
 		}
 	],
 	"parses": [
@@ -1435,69 +1424,6 @@
 				}
 			]
 		}
-	],
-	"ads": [
-		"https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd",
-		"mimg.0c1q0l.cn",
-		"www.googletagmanager.com",
-		"www.google-analytics.com",
-		"wan.51img1.com",
-		"audid-api.taobao.com",
-		"hd.youyhn.com",
-		"mc.usihnbcq.cn",
-		"mg.g1mm3d.cn",
-		"mscs.svaeuzh.cn",
-		"cnzz.hhttm.top",
-		"tp.vinuxhome.com",
-		"cnzz.mmstat.com",
-		"www.baihuillq.com",
-		"s23.cnzz.com",
-		"z3.cnzz.com",
-		"c.cnzz.com",
-		"stj.v1vo.top",
-		"z12.cnzz.com",
-		"img.mosflower.cn",
-		"tips.gamevvip.com",
-		"ehwe.yhdtns.com",
-		"xdn.cqqc3.com",
-		"www.jixunkyy.cn",
-		"sp.chemacid.cn",
-		"hm.baidu.com",
-		"s9.cnzz.com",
-		"z6.cnzz.com",
-		"um.cavuc.com",
-		"mav.mavuz.com",
-		"wofwk.aoidf3.com",
-		"z5.cnzz.com",
-		"xc.hubeijieshikj.cn",
-		"tj.tianwenhu.com",
-		"xg.gars57.cn",
-		"k.jinxiuzhilv.com",
-		"cdn.bootcss.com",
-		"ppl.xunzhuo123.com",
-		"xomk.jiangjunmh.top",
-		"img.xunzhuo123.com",
-		"z1.cnzz.com",
-		"s13.cnzz.com",
-		"xg.huataisangao.cn",
-		"z7.cnzz.com",
-		"xg.huataisangao.cn",
-		"z2.cnzz.com",
-		"s96.cnzz.com",
-		"q11.cnzz.com",
-		"thy.dacedsfa.cn",
-		"xg.whsbpw.cn",
-		"s19.cnzz.com",
-		"z8.cnzz.com",
-		"s4.cnzz.com",
-		"f5w.as12df.top",
-		"ae01.alicdn.com",
-		"www.92424.cn",
-		"k.wudejia.com",
-		"vivovip.mmszxc.top",
-		"qiu.xixiqiu.com",
-		"cdnjs.hnfenxun.com",
-		"cms.qdwght.com"
 	],
 	"wallpaper": "https://yydsys.top/bg.php",
 	"warningText": "软件接口免费，切勿付费购买",
