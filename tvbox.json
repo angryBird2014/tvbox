@@ -1082,6 +1082,17 @@
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
+    },
+  {
+		"group": "redirect",
+		"channels": [
+			{
+				"name": "live",
+				"urls": [
+					"proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMTIyODczL2xlbGUudHh0P3NpZ249eUt6amFwSmx4Si02bmFLY2JNNUJ6NEZEWW40M3U2bFRIT18wZmQ3dDNYZyUzRCUzQTA="
+				]
+			}
+		]
+	}
   ]
 }
