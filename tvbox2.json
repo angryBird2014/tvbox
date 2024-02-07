@@ -424,17 +424,6 @@
 			]
 		},
 		{
-			"key": "csp_哔滴影视",
-			"name": "哔滴",
-			"type": 3,
-			"api": "csp_Bdys01",
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"ext": "",
-			"jar": "https://gitee.com/bin-shao/tvbox/raw/master/jar/QJJAR.jar"
-		},
-		{
 			"key": "csp_Lib",
 			"name": "Lib",
 			"type": 3,
@@ -453,18 +442,6 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		},
-		{
-			"key": "csp_石榴电影",
-			"name": "石榴",
-			"type": 3,
-			"api": "csp_ShiLiuDY",
-			"filterable": 1,
-			"playerType": 2,
-			"quickSearch": 1,
-			"searchable": 1,
-			"ext": "",
-			"jar": "https://gitee.com/bin-shao/tvbox/raw/master/jar/QJJAR.jar"
 		},
 		{
 			"key": "csp_Bttoo",
